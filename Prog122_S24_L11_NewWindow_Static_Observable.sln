@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog122_S24_L11_NewWindow_Static_Observable", "Prog122_S24_L11_NewWindow_Static_Observable.csproj", "{0E723A5F-FB76-4D45-BC13-BFB5421CEEE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E723A5F-FB76-4D45-BC13-BFB5421CEEE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E723A5F-FB76-4D45-BC13-BFB5421CEEE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E723A5F-FB76-4D45-BC13-BFB5421CEEE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E723A5F-FB76-4D45-BC13-BFB5421CEEE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E86EDE95-94C4-444F-AFB9-7CEAD8962FA6}
+	EndGlobalSection
+EndGlobal
